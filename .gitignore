@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Model artifacts
+*.pkl
+*.pt
+*.pth
+*.ckpt
+
+# Submissions
+submission.csv
+baseline_model/submission.csv
+advanced_model/submission.csv
+
+# Data — do not commit raw data
+data/train/
+data/test/
+data/train.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

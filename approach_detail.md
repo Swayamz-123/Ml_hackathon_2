@@ -1,7 +1,7 @@
 # Hallucination Detection Pipeline: Technical Approach
 
 **Competition:** Fake or Real — The Impostor Hunt in Texts for Space Operations
-**Private Leaderboard Score:** 0.852 (Public: 0.836)
+**Private Leaderboard Score:** 0.88395 (Public: 0.86)
 **Constraint:** No pretrained neural backbones — no BERT, GPT, LLaMA, Word2Vec, GloVe,
 or any pre-computed embeddings of any kind.
 
